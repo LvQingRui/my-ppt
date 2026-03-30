@@ -56,7 +56,7 @@
 
 ## 🧠 学习成本
 
-👉 初期需要记忆键位  
+👉 只需要记忆键位  
 ![键位图](../atguigu/imgs/双拼键位图.png)
 
 <small>来源：https://flypy.cc/</small>
