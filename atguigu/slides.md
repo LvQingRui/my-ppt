@@ -32,8 +32,8 @@
 
 "今天晚上一起吃火锅吗"
 
-小鹤双拼 → jt ws yh yi qi ih ho go ma (32 个字母)<br>
-全拼 → jintianwanshangyiqichihuoguoma (18 个字母)
+小鹤双拼 → jt ws yh yi qi ih ho go ma (18 个字母)<br>
+全拼 → jintianwanshangyiqichihuoguoma (32 个字母)
 
 ---
 
